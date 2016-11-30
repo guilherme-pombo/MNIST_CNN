@@ -1,2 +1,2 @@
-# NMIST_CNN
-Convolutional Neural Nets for NMIST dataset
+# kaggle_digit_recognizer
+A repository attempting to get the best result possible on the kaggle competition for digit recognition. This uses the MNIST digit data set as input and Convolutional Neural Nets as the models. Uses two types of CNN to obtain accuracies of 98% (2 layer simple CNN) and 99%(3 layer CNN) -- predict.py. Furthermore, data augmentation is used to further increase the accuracies of both CNNs -- data_augmentation.py
